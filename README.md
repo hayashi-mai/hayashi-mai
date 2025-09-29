@@ -3,4 +3,5 @@
 <img src="https://pbs.twimg.com/media/Gpa7K4FaoAAtUtT?format=jpg&name=4096x4096" class="fa-bounce tooltipster hidden-sm-down" alt="pagedoll"
 style="width:650px;">
 </div>
+  art by mochikanwaa
 </center>
